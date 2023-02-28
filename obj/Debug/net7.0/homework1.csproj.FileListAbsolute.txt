@@ -1,0 +1,15 @@
+D:\Academic\MDT112\homework1\bin\Debug\net7.0\homework1.exe
+D:\Academic\MDT112\homework1\bin\Debug\net7.0\homework1.deps.json
+D:\Academic\MDT112\homework1\bin\Debug\net7.0\homework1.runtimeconfig.json
+D:\Academic\MDT112\homework1\bin\Debug\net7.0\homework1.dll
+D:\Academic\MDT112\homework1\bin\Debug\net7.0\homework1.pdb
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\homework1.csproj.AssemblyReference.cache
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\homework1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\homework1.AssemblyInfoInputs.cache
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\homework1.AssemblyInfo.cs
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\homework1.csproj.CoreCompileInputs.cache
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\homework1.dll
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\refint\homework1.dll
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\homework1.pdb
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\homework1.genruntimeconfig.cache
+D:\Academic\MDT112\homework1\obj\Debug\net7.0\ref\homework1.dll
