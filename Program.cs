@@ -48,7 +48,7 @@ namespace homework1
             switch (section)
             {
                 case "CIA":
-                    if ((check6 % 3 == 0)&&(check2 != 8)&&(check2 >= 6)&&(check5 != 1)&&(check5 != 3)&&(check5 != 5))
+                    if ((check6 % 3 == 0)&&(check3 != 8)&&(check3 >= 6)&&(check5 != 1)&&(check5 != 3)&&(check5 != 5))
                     {
                         Console.WriteLine("Correct /(>w<)/");
                     }
